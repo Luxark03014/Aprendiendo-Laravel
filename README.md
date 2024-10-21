@@ -12,3 +12,4 @@ Guia para Aprender Framework Laravel.
     - Namespaces
     - Modelos
     - Migraciones
+    - Introducción a Eloquent
