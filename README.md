@@ -9,3 +9,6 @@ Guia para Aprender Framework Laravel.
     - Layouts
     - Detalles Tailwind CSS
     - Estilizar a partir de Props y Atributos
+    - Namespaces
+    - Modelos
+    - Migraciones
