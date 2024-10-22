@@ -13,3 +13,6 @@ Guia para Aprender Framework Laravel.
     - Modelos
     - Migraciones
     - Introducción a Eloquent
+    - Model Factories
+    - Relaciones con Eloquent
+    
